@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.mazecomrat.sneakpeek",
+      "sha256_cert_fingerprints": [
+        "03:18:F8:1A:BE:94:51:56:8E:CB:55:44:71:DD:BE:A5:92:72:50:DC:FA:11:ED:5D:6A:92:E9:44:21:66:38:00"
+      ]
+    }
+  }
+]
